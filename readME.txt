@@ -1,1 +1,1 @@
-testBranch1 and was successfully manually merges by using the "git mergetool" - command
+successfulle merged testBranch2 into master by using the "git mergetool" - command
