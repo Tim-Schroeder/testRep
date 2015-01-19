@@ -1,1 +1,1 @@
-some different sample text2dfadfsdaf
+testBranch1 and was successfully manually merges by using the "git mergetool" - command
